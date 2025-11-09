@@ -9,6 +9,7 @@ matplotlib
 seaborn
 plotly
 statsmodels
+scikit-learn
 
 # For file handling
 openpyxl
